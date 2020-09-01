@@ -4,17 +4,16 @@ Harvard plans to record audio, photos, and video of Computer Science 50 (CS50) l
 
 To attend CS50, you will need to sign online an Acknowledgement and Authorization in the following form:
 
-> I understand and agree that, if I do not wish any photos or video of me to be used as part of the Projects:
->
-> * If I am participating in CS50 in a classroom or other course location, I should sit in the designated "no-film" zone of the classroom or location, and should not walk in the field of view of the cameras.
-> * If I am participating in CS50 online, I should turn off my own camera and should not display a photo of myself. In addition, if I do not wish my real name to be displayed when I speak and my voice is recorded, I should select a pseudonymous user name in Zoom (or other online service). If I select a pseudonymous user name, I will inform the instructor by emailing the address above, so the instructor knows who I am.
+> I understand and agree that, if I do not wish any photos or video of me to be used as part of the Projects: 
+> * If I am participating in CS50 in a classroom or other course location, I should sit in the designated "no-film" zone of the classroom or location, and should not walk in the field of view of the cameras. 
+> * If I am participating in CS50 online, I should turn off my own camera and should not display a photo of myself. In addition, if I do not wish my real name to be displayed when I speak and my voice is recorded, I should select a pseudonymous user name in Zoom (or other online service). If I select a pseudonymous user name, I will inform the instructor, so the instructor knows who I am. 
 >
 > I understand that I am free not to be included in the Projects' photos and video in this way, and that this will not affect my grade or my ability to participate in course activities.
 >
 > Unless I exclude myself from the Projects' photos and video as described above and take any other steps outlined by the instructor to avoid being filmed, I authorize Harvard and its designees to make and use Recordings of my participation in CS50 and activities related to CS50. I understand and agree that the Recordings may include my image, name, and voice. I also understand and agree that, even if I opt out of the Projects' photos and video and choose a pseudonymous user name, my voice will be recorded if I am participating online, and may be picked up by microphones outside the "no-film" zone if I am in a CS50 classroom or other location, and my spoken name also may be included in the Recordings. If the class is online, I may participate instead via chat messages, which will not be included in the Recordings.
 >
 > I understand and agree that Harvard and its designees will have the irrevocable, worldwide right to make, edit, modify, copy, publish, transmit, distribute, sell, publicly display, publicly perform, and otherwise use and make available the Recordings and any other works that may be derived from those Recordings, in any manner or medium now known or later invented, in connection with the Projects, and to authorize others to do so as well. I hereby transfer to Harvard any rights, including copyrights, I may have in the Recordings that Harvard makes. I will remain free to use and disseminate any ideas, remarks, or other material that I may contribute to course discussions.
->
+> 
 > I acknowledge and agree that I will not be entitled to any payment, now or in the future, in connection with the Recordings or any works derived from them. This Acknowledgment and Authorization is a binding agreement, and is signed as a document under seal governed by the laws of the Commonwealth of Massachusetts.
 
 **Unless you exclude yourself as described in the Acknowledgment and Authorization, you are agreeing, by attending CS50, that your participation in CS50 and related activities may be recorded and used by Harvard in connection with the Projects without further obligation or liability to you, even if you do not sign any authorization.**
