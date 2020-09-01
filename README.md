@@ -4,7 +4,7 @@ Harvard plans to record audio, photos, and video of Computer Science 50 (CS50) l
 
 To attend CS50, you will need to sign online an Acknowledgement and Authorization in the following form:
 
-> I understand that, if I do not wish any photos or video of me to be used as part of the Projects, I should so inform the course's instructor by emailing <recordings@cs50.harvard.edu> within one week of attending CS50. In that event, I understand and agree that:
+> I understand and agree that, if I do not wish any photos or video of me to be used as part of the Projects:
 >
 > * If I am participating in CS50 in a classroom or other course location, I should sit in the designated "no-film" zone of the classroom or location, and should not walk in the field of view of the cameras.
 > * If I am participating in CS50 online, I should turn off my own camera and should not display a photo of myself. In addition, if I do not wish my real name to be displayed when I speak and my voice is recorded, I should select a pseudonymous user name in Zoom (or other online service). If I select a pseudonymous user name, I will inform the instructor by emailing the address above, so the instructor knows who I am.
